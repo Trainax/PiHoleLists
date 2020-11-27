@@ -1,0 +1,4 @@
+# Phishing lists
+
+(\.|^)freeprizetoday\.club$
+www.inserimento-portale.it
