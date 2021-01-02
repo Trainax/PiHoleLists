@@ -6,7 +6,6 @@ These lists are designed to be used in addition to these other lists which I als
 | List name | Link | Comments |
 | ------------- | :-------------: | ------------- |
 | hosts by StevenBlack | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | Comes bundled with Pi-hole |
-| justdomains by malwaredomains.com | [Link](https://mirror1.malwaredomains.com/files/justdomains) | Comes bundled with Pi-hole |
 | Abuse by blocklistproject | [Link](https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt) |  |
 | Ads by blocklistproject | [Link](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt) |  |
 | Crypto by blocklistproject | [Link](https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt) |  |
