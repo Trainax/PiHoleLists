@@ -1,7 +1,7 @@
 # Pi-hole Lists
 My domain lists created for [Pi-hole](https://pi-hole.net).
 
-These lists are designed to be used in addition to these other lists which I also use:
+My lists are designed to be used in addition to these other lists which I also use:
 
 | List name | Link | Comments |
 | ------------- | :-------------: | ------------- |
@@ -20,12 +20,12 @@ These lists are designed to be used in addition to these other lists which I als
 | Gambling by blocklistproject | [Link](https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt) |  |
 | Porn by blocklistproject | [Link](https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt) |  |
 
-My lists are what I had to personally blacklist:
+These are my lists (here are all the domains I had to personally blacklist):
 
 | List name | Link | Comments |
 | ------ | :-----: | ------ |
 | Phishing | [Link](https://trainax.github.io/PiHoleLists/lists/Phishing.txt) |  |
 | Porn | [Link](https://trainax.github.io/PiHoleLists/lists/Porn.txt) |  |
-| Tracking| [Link](https://trainax.github.io/PiHoleLists/lists/Tracking.txt) |  |
-| Scam| [Link](https://trainax.github.io/PiHoleLists/lists/Scam.txt) |  |
-| Misc| [Link](https://trainax.github.io/PiHoleLists/lists/Misc.txt) | These domains will be moved to more specific lists if those lists are created |
+| Tracking | [Link](https://trainax.github.io/PiHoleLists/lists/Tracking.txt) |  |
+| Scam | [Link](https://trainax.github.io/PiHoleLists/lists/Scam.txt) |  |
+| Misc | [Link](https://trainax.github.io/PiHoleLists/lists/Misc.txt) | These domains will be moved to more specific lists if those lists are created |

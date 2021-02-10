@@ -1,4 +1,7 @@
 # Phishing lists
 
-(\.|^)freeprizetoday\.club$
 www.inserimento-portale.it
+www.lnformacliente-sicuezzaapp.com
+control-security.000webhostapp.com
+webisp.gruppointesaisp.com
+gestionecontoweb.unaux.com

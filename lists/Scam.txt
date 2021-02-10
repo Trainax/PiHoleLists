@@ -1,3 +1,4 @@
 # Scam list
 
 cdn.cluodlfare.com
+appleid-apple-id.support

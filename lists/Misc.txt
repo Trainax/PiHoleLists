@@ -1,6 +1,5 @@
 # These domains have yet to be categorized
 
-(\.|^)mopinion\.com$
 inflationbreedinghoax.com
 splittingpick.com
 squeezedthoughtfully.com
