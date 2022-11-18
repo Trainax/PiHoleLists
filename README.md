@@ -9,7 +9,6 @@ My lists are designed to be used in addition to these other lists which I also u
 | hosts | [Steven Black](https://github.com/StevenBlack) | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | Comes bundled with Pi-hole |
 | Abuse | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt) |  |
 | Ads | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt) |  |
-| Crypto | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt) |  |
 | Drugs | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt) |  |
 | Fraud | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt) |  |
 | Malware | [The Block List Project](https://github.com/blocklistproject) | [Link](https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt) |  |
